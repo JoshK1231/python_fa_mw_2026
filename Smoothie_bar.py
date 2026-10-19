@@ -2,6 +2,18 @@
 -----------------------------------------------------------------------
 ASSIGNMENT 9A: THE SMOOTHIE SPRINT
 -----------------------------------------------------------------------
+[ ] 1. Header Docstring included.
+[ ] 2. Global Constants BASES and FRUITS defined as Tuples.
+[ ] 3. Professional function get_price(size) returns a float.
+[ ] 4. Professional function blend(size, base, fruit, scoops) for output.
+[ ] 5. main() function handles try/except for scoops (int).
+[ ] 6. main() calls both functions correctly.
+-----------------------------------------------------------------------
+"""
+"""
+-----------------------------------------------------------------------
+ASSIGNMENT 9A: THE SMOOTHIE SPRINT
+-----------------------------------------------------------------------
 Name:Joshua Kline
 DATE: [10/19/2026]
 FILE: Smoothie_bar.py
